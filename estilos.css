@@ -1,0 +1,32 @@
+.header {
+    background-color:rgb(70, 21, 126); 
+    height: 600px; 
+    width: 600px
+    }
+
+    .conteiner {
+      background-color: rgb(114, 24, 218); 
+      height:300px; 
+      width:300px
+    }
+
+
+    .titulo{
+        color:white;
+         background-color: rgb(174,122,235); 
+         font-size: 25px; 
+         font-family: 'Times New Roman'; 
+         font-weight: bold;
+    }
+
+    .navbar{
+      height: 70vh; 
+      width:70%;
+      background-color:rgb(88, 52, 129)
+    }
+
+    .banner{
+      height:35vh; 
+      width:60vw; 
+      background-color:rgb(62, 38, 88)
+    }
